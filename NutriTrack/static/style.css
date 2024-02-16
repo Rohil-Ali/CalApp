@@ -1,0 +1,134 @@
+.logo{
+    text-align: center;
+    padding-top: 35px;
+}
+
+#search{
+    justify-content: center;
+    padding-top: 35px;
+    padding-bottom: 80px;
+    width: 70%;
+    margin: auto;
+}
+
+.inputstyle {
+    padding: 20px !important;
+}
+
+#button {
+  background-color: #494747;
+  color: white;
+  width: 8em;
+  font-size: 30px !important;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  border-width: 1px;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.alert-warning{
+    text-align: center;
+   }
+
+.top-info{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 35px;
+}
+
+.top-left{
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+
+}
+
+.pie{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.top-right{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+    text-align: center;
+    height: 610px;
+}
+
+.nutrition-values{
+    padding-top: 20px;
+}
+
+.grams-input{
+    padding-bottom: 15px;
+}
+
+h2{
+    margin-left: 42px;
+}
+
+ul {
+    padding-bottom: 20px;
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-bottom: 1px solid #efefef;
+    width: 90%;
+}
+
+.servingsize {
+    background-color: #000000;
+    padding: 10px;
+    color: #ffffff;
+}
+
+#inputg{
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 0px;
+    font-size: 16px;
+    margin-left: 42px;
+    height: 40px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cal-heading{
+    padding-top: 20px;
+}
+
+h5{
+    font-size: 200px;
+    font-weight: 500; 
+}
+
+span{
+    color: #4B8673;
+}
+
+.middle{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+    margin-bottom: 100px;
+}
+
+.title{
+    padding-top: 20px;
+    padding-left: 42px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
