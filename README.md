@@ -23,6 +23,6 @@ the api used is from api ninjas.
 ![image](https://github.com/user-attachments/assets/b49166f6-82d5-43f0-b231-914d73905a5d)
 ![image](https://github.com/user-attachments/assets/52a56512-a75c-43d7-933a-3565e5609192)
 
-unfortuantly due to changes made to api ninjas, this project has some issues which i will fix once i have finished my other projects. recently api ninjas has put some nutrional information such as calories, protein and serving size behind a pay wall, this change to the api has cause said nutrional informaion to not show up which has also affected the pie chart within the website and the 'to burn off x calories' section. whilst this can be fixed buy paying to unlock the paywall this is not within my financial budget as a university student, so i will have to find another api to use.  
+unfortuantly due to changes made to api ninjas, this project has some issues which i will fix once i have finished my other projects. recently api ninjas has put some nutrional information such as calories, protein and serving size behind a pay wall, this change to the api has caused said nutrional informaion to not show up which has also affected the pie chart within the website and the 'to burn off x calories' section. whilst this can be fixed buy paying to unlock the paywall this is not a priority at the moment.  
 
 
